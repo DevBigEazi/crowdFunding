@@ -11,3 +11,9 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+
+```
+Contract Addresses
+
+CrowdFundingModule#CrowdFunding - 0xa4a6f9357b5A0cacBCd9212d677bFDCE3758eE13
+```
